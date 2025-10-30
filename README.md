@@ -26,7 +26,7 @@ This API allows partners to:
 
 ### **2. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/ticketboss-backend.git
+git clone https://github.com/Niru8449/TicketBoss.git
 cd ticketboss-backend
 npm install
 ```
